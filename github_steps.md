@@ -4,7 +4,7 @@ Describe in your own words how to establish a connection between a local reposit
 
 To establish a connection between a local repository and a remote repository on GitHub, on must follow these steps
 
-1. Create a directory in Termianl and add files to that directory
+1. Create a directory in Terminal and add files to that directory
 2. Initialize a Git repository in the selected directory using 'git init'
 3. Add your file by using 'git add <filename>'
 4. commit your work using 'git commit -m "Message here"
